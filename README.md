@@ -1,1 +1,1 @@
-# Digit-Classification---ANN
+# Digit-Classification-ANN
